@@ -1,0 +1,54 @@
+{
+  "podcasts": [
+    {
+      "titulo_ep": "176 - Aqueles sobre seus hobbies",
+      "criador": "Estamos Bem?",
+      "data_lancamento": "02/06/2021"
+    },
+    {
+      "titulo_ep": "Aquele sobre saúde mental",
+      "criador": "Estamos Bem?",
+      "data_lancamento": "30/05/2021"
+    },
+    {
+      "titulo_ep": "Aquele sobre horóscopo com Titi Vidal",
+      "criador": "Estamos Bem?",
+      "data_lancamento": "19/05/2021"
+    },
+    {
+      "titulo_ep": "Como viver com raiva?",
+      "criador": "Mamilos",
+      "data_lancamento": "09/01/2021"
+    },
+    {
+      "titulo_ep": "Como envelhecer bem?",
+      "criador": "Mamilos",
+      "data_lancamento": "28/04/2019"
+    },
+    {
+      "titulo_ep": "NA FORÇA DO ÓDIO",
+      "criador": "Hoje Tem Podcast",
+      "data_lancamento": "14/05/2022"
+    },
+    {
+      "titulo_ep": "CHORA PODOSFERA",
+      "criador": "Hoje Tem Podcast",
+      "data_lancamento": "11/12/2021"
+    },
+    {
+      "titulo_ep": "DANIELLE DIZ",
+      "criador": "PODDELAS",
+      "data_lancamento": "16/09/2021"
+    },
+    {
+      "titulo_ep": "LUCAS GUEDEZ",
+      "criador": "PODDELAS",
+      "data_lancamento": "15/06/2021"
+    },
+    {
+      "titulo_ep": "Papo de pracinha: família e cuidado",
+      "criador": "Vai Passar",
+      "data_lancamento": "18/05/2022"
+    }
+  ]
+}
